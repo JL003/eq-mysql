@@ -14,7 +14,7 @@ const eqMysql = require('eq-mysql');
 ##### database：数据库名称
 ##### user： 登录数据库的名称
 ##### password：登录数据库的密码
-##### port：端口号，不写默认3306
+##### port：端口号，默认3306
 
 ```javascript
 eqMysql.config({
