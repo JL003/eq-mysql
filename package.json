@@ -1,0 +1,48 @@
+{
+  "_from": "eq-mysql",
+  "_id": "eq-mysql@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-Jwr579wsGCmMyQ2GHEKCaNHEQRf7EW4M9cS4ZCHakxnigAPADpd28+Y/yoOHSGnHM7AAqflJY6A0GlM4R+FVlg==",
+  "_location": "/eq-mysql",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "eq-mysql",
+    "name": "eq-mysql",
+    "escapedName": "eq-mysql",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://repo.huaweicloud.com/repository/npm/eq-mysql/-/eq-mysql-1.1.5.tgz",
+  "_shasum": "75bfb2105d00e86c5d01c115dc761df2ba233638",
+  "_spec": "eq-mysql",
+  "_where": "D:\\Lin\\uni app",
+  "author": {
+    "name": "JL003"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "deprecated": false,
+  "description": "Easy query of MySql",
+  "keywords": [
+    "MySql",
+    "Easy MySql",
+    "Quyer MySql",
+    "Node MySql"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "eq-mysql",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "version": "1.1.5"
+}
