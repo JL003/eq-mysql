@@ -1,6 +1,7 @@
 # eq-mysql
 基于mysql模块进行封装，使更简易的操作mysql数据库
 ## 安装
+- [npm eq-mysql](https://www.npmjs.com/package/eq-mysql "npm eq-mysql")
 ```shell
 npm install eq-mysql --save
 ```
